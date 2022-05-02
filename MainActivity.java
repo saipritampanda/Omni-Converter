@@ -157,11 +157,12 @@ public class MainActivity extends AppCompatActivity {
                 }
 
                 /*
-                Instead of try catch, TextUtils can also be used as follows:
+                //Instead of try catch, TextUtils can also be used as follows (3 lines):
 
                 if(TextUtils.isEmpty(String.valueOf(input))){
                     OnEmptyEditBox.show();
                 }
+                
                  */
 
                 //  Currency Conversions:-
