@@ -1,0 +1,271 @@
+<resources>
+    <string name="app_name">Omni Converter</string>
+    <string name="snackbarText">From and To are of same type. Try any different combination!</string>
+    <string name="copyrightText">© NightXStudio Productions</string>
+    <string name="copyright_nightxstudio_about_section"><b>© NightXStudio Productions ~ Sai Pritam Panda</b></string>
+    <string name="type_of_conversion">Type Of Conversion</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="enter_the_value">Enter The Value</string>
+    <string name="currencyUpdateTime">*Currency Exchange Rate gets updated at 00:00:02 UTC with 24 hours refresh time-span</string>
+    <string name="calculate">calculate</string>
+    <string name="result">Result</string>
+    <string name="onFailuteText">Request failed due to Network issues. Check your Internet Connectivity and retry in some time.</string>
+    <string name="result_will_be_shown_here">// Result will be shown here</string>
+    <string name="omni_converter">Omni Converter</string>
+
+    <string-array name="typeItemsStringArray">
+
+        <item>Currency</item>
+        <item>Weight</item>
+        <item>Height</item>
+        <item>Temperature</item>
+
+    </string-array>
+
+    <string-array name="currencyItemsStringArray">
+
+        <item>AED</item>
+        <item>AFN</item>
+        <item>ALL</item>
+        <item>AMD</item>
+        <item>ANG</item>
+        <item>AOA</item>
+        <item>ARS</item>
+        <item>AUD</item>
+        <item>AWG</item>
+        <item>AZN</item>
+
+        <item>BAM</item>
+        <item>BBD</item>
+        <item>BDT</item>
+        <item>BGN</item>
+        <item>BHD</item>
+        <item>BIF</item>
+        <item>BMD</item>
+        <item>BND</item>
+        <item>BOB</item>
+        <item>BRL</item>
+        <item>BSD</item>
+        <item>BTN</item>
+        <item>BWP</item>
+        <item>BYN</item>
+        <item>BZD</item>
+
+        <item>CAD</item>
+        <item>CDF</item>
+        <item>CHF</item>
+        <item>CLP</item>
+        <item>CNY</item>
+        <item>COP</item>
+        <item>CRC</item>
+        <item>CUP</item>
+        <item>CVE</item>
+        <item>CZK</item>
+
+        <item>DJF</item>
+        <item>DKK</item>
+        <item>DOP</item>
+        <item>DZD</item>
+
+        <item>EGP</item>
+        <item>ERN</item>
+        <item>ETB</item>
+        <item>EUR</item>
+
+        <item>FJD</item>
+        <item>FKP</item>
+        <item>FOK</item>
+
+        <item>GBP</item>
+        <item>GEL</item>
+        <item>GGP</item>
+        <item>GHS</item>
+        <item>GIP</item>
+        <item>GMD</item>
+        <item>GNF</item>
+        <item>GTQ</item>
+        <item>GYD</item>
+
+        <item>HKD</item>
+        <item>HNL</item>
+        <item>HRK</item>
+        <item>HTG</item>
+        <item>HUF</item>
+
+        <item>IDR</item>
+        <item>ILS</item>
+        <item>IMP</item>
+        <item>INR</item>
+        <item>IQD</item>
+        <item>IRR</item>
+        <item>ISK</item>
+
+        <item>JEP</item>
+        <item>JMD</item>
+        <item>JOD</item>
+        <item>JPY</item>
+
+        <item>KES</item>
+        <item>KGS</item>
+        <item>KHR</item>
+        <item>KID</item>
+        <item>KMF</item>
+        <item>KRW</item>
+        <item>KWD</item>
+        <item>KYD</item>
+        <item>KZT</item>
+
+        <item>LAK</item>
+        <item>LBP</item>
+        <item>LKR</item>
+        <item>LRD</item>
+        <item>LSL</item>
+        <item>LYD</item>
+
+        <item>MAD</item>
+        <item>MDL</item>
+        <item>MGA</item>
+        <item>MKD</item>
+        <item>MMK</item>
+        <item>MNT</item>
+        <item>MOP</item>
+        <item>MRU</item>
+        <item>MUR</item>
+        <item>MVR</item>
+        <item>MWK</item>
+        <item>MXN</item>
+        <item>MYR</item>
+        <item>MZN</item>
+
+        <item>NAD</item>
+        <item>NGN</item>
+        <item>NIO</item>
+        <item>NOK</item>
+        <item>NPR</item>
+        <item>NZD</item>
+
+        <item>OMR</item>
+
+        <item>PAB</item>
+        <item>PEN</item>
+        <item>PGK</item>
+        <item>PHP</item>
+        <item>PKR</item>
+        <item>PLN</item>
+        <item>PYG</item>
+
+        <item>QAR</item>
+
+        <item>RON</item>
+        <item>RSD</item>
+        <item>RUB</item>
+        <item>RWF</item>
+
+        <item>SAR</item>
+        <item>SBD</item>
+        <item>SCR</item>
+        <item>SDG</item>
+        <item>SEK</item>
+        <item>SGD</item>
+        <item>SHP</item>
+        <item>SLL</item>
+        <item>SOS</item>
+        <item>SRD</item>
+        <item>SSP</item>
+        <item>STN</item>
+        <item>SYP</item>
+        <item>SZL</item>
+
+        <item>THB</item>
+        <item>TJS</item>
+        <item>TMT</item>
+        <item>TND</item>
+        <item>TOP</item>
+        <item>TRY</item>
+        <item>TTD</item>
+        <item>TVD</item>
+        <item>TWD</item>
+        <item>TZS</item>
+
+        <item>UAH</item>
+        <item>UGX</item>
+        <item>USD</item>
+        <item>UYU</item>
+        <item>UZS</item>
+
+        <item>VES</item>
+        <item>VND</item>
+        <item>VUD</item>
+
+        <item>WST</item>
+
+        <item>XAF</item>
+        <item>XCD</item>
+        <item>XDR</item>
+        <item>XOF</item>
+        <item>XPF</item>
+
+        <item>YER</item>
+
+        <item>ZAR</item>
+        <item>ZMW</item>
+        <item>ZWL</item>
+
+    </string-array>
+
+    <string-array name="weightItemsStringArray">
+
+        <item>Kilo-gram</item>
+        <item>Pound</item>
+        <item>Gram</item>
+        <item>Ounce</item>
+
+    </string-array>
+
+    <string-array name="heightItemsStringArray">
+
+        <item>Kilo-meter</item>
+        <item>Meter</item>
+        <item>Foot</item>
+        <item>Mile</item>
+
+    </string-array>
+
+    <string-array name="temperatureItemsStringArray">
+
+        <item>°C</item>
+        <item>°F</item>
+        <item>K</item>
+        <item>°R</item>
+
+    </string-array>
+
+    <string name="about_section">About Section</string>
+    <string name="aboutText1">All type Converter for 160+ currencies with live exchange rates. \n\nFrom the makers of NightXStudio Productions comes Omni Converter free - the easiest, most user-friendly stop for Global Currency Exchange with many other conversions availability. \n\nAll Currency Conversions use live exchange rates, thus providing the most accurate result available in the world.</string>
+    <string name="aboutText2">NightXStudio was founded by Sai Pritam Panda in 2022 and currently produces applications for only AndroidOS.</string>
+    <string name="aboutText3">Production Contact Details:</string>
+    <string name="aboutText8">• E-Mail: nightxstudio15@gmail.com</string>
+    <string name="aboutText4">Feel absolutely free to give any kind of feedback or suggestions for the improvement of the app, for better and more benefits</string>
+    <string name="aboutText5">Founder Contact Details:</string>
+    <string name="aboutText6">(Sai Pritam Panda)</string>
+    <string name="instagram">Instagram</string>
+    <string name="twitter">Twitter</string>
+    <string name="aboutText7">THANK YOU ALL FOR YOUR SUPPORT!</string>
+    <string name="aboutText9">If you are facing any kind of issue related to font style and size then this might be due to your device font size setting. Please change it first then it will work smoothly.</string>
+    <string name="note"><b>*NOTE:</b></string>
+    <string name="omniConverter_year">©Omni Converter_Year</string>
+    <string name="connect_with_us">Connect With Us</string>
+
+    <string name="about">About</string>
+    <string name="share">Share</string>
+    <string name="exit">Exit</string>
+    <string name="sample">Sample</string>
+
+    <string name="internet_connectivity_error">Internet Connectivity Error</string>
+    <string name="please_enter_the_value_in_the_specified_box">Please enter any value in the specified box!</string>
+    <string name="empty_box_error">Empty Box Error</string>
+    <string name="error">Error</string>
+
+
+</resources>

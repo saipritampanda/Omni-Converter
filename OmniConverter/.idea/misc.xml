@@ -1,0 +1,34 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/SAI PRITAM PANDA/AndroidStudioProjects/OmniConverter/app/src/main/res/drawable/actionbar_menu_img.xml" value="0.172" />
+        <entry key="..\:/Users/SAI PRITAM PANDA/AndroidStudioProjects/OmniConverter/app/src/main/res/drawable/bottom_wave_direction_up.xml" value="0.1605" />
+        <entry key="..\:/Users/SAI PRITAM PANDA/AndroidStudioProjects/OmniConverter/app/src/main/res/drawable/construction.xml" value="0.1535" />
+        <entry key="..\:/Users/SAI PRITAM PANDA/AndroidStudioProjects/OmniConverter/app/src/main/res/drawable/cursor_color.xml" value="0.152" />
+        <entry key="..\:/Users/SAI PRITAM PANDA/AndroidStudioProjects/OmniConverter/app/src/main/res/drawable/menu_about.xml" value="0.172" />
+        <entry key="..\:/Users/SAI PRITAM PANDA/AndroidStudioProjects/OmniConverter/app/src/main/res/drawable/menu_connect_with_us.xml" value="0.1605" />
+        <entry key="..\:/Users/SAI PRITAM PANDA/AndroidStudioProjects/OmniConverter/app/src/main/res/drawable/menu_exit.xml" value="0.172" />
+        <entry key="..\:/Users/SAI PRITAM PANDA/AndroidStudioProjects/OmniConverter/app/src/main/res/drawable/menu_share.xml" value="0.172" />
+        <entry key="..\:/Users/SAI PRITAM PANDA/AndroidStudioProjects/OmniConverter/app/src/main/res/drawable/settings.xml" value="0.172" />
+        <entry key="..\:/Users/SAI PRITAM PANDA/AndroidStudioProjects/OmniConverter/app/src/main/res/layout/activity_about.xml" value="0.264" />
+        <entry key="..\:/Users/SAI PRITAM PANDA/AndroidStudioProjects/OmniConverter/app/src/main/res/layout/activity_connect_with_us.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SAI PRITAM PANDA/AndroidStudioProjects/OmniConverter/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/SAI PRITAM PANDA/AndroidStudioProjects/OmniConverter/app/src/main/res/layout/currency_dropdown.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SAI PRITAM PANDA/AndroidStudioProjects/OmniConverter/app/src/main/res/layout/on_empty_editbox_snacbar_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SAI PRITAM PANDA/AndroidStudioProjects/OmniConverter/app/src/main/res/layout/on_failure_snackbar_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SAI PRITAM PANDA/AndroidStudioProjects/OmniConverter/app/src/main/res/layout/snackbar_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SAI PRITAM PANDA/AndroidStudioProjects/OmniConverter/app/src/main/res/layout/type_dropdown.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SAI PRITAM PANDA/AndroidStudioProjects/OmniConverter/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SAI PRITAM PANDA/AndroidStudioProjects/OmniConverter/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.172" />
+        <entry key="..\:/Users/SAI PRITAM PANDA/AndroidStudioProjects/OmniConverter/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.172" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
